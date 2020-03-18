@@ -1,0 +1,8 @@
+x <- read.csv("raw_coldstart_python_data.csv",header=T,sep=",")
+x <- t(x)
+a <- as.numeric(x[2,1:10])
+b <- as.numeric(x[2,11:20])
+c <- as.numeric(x[2,21:30])
+d <- as.numeric(x[2,31:40])
+png(file = "boxplot_coldstart_python.png", width=800, height=800, units="px", pointsize=24)
+boxplot(a,b,c,d,names=c("AWS","Azure","Google", "IBM"), xlab = expression(bold("Cloud Provider")),ylab = expression(bold("time (ms)")), main = "Python Cold Start Latency", ylim = c(0, 4500))

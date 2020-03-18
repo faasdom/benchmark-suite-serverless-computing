@@ -1,0 +1,7 @@
+{
+  "name": "aws-node-latency",
+  "description": "Simple Latency test for Amazon Web Services",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "ISC"
+}

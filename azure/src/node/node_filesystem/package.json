@@ -1,0 +1,10 @@
+{
+  "name": "azure-node-filesystem",
+  "description": "Simple filesystem test for Microsoft Azure Functions. Write 10'000 10kB files and read them.",
+  "version": "0.0.1",
+  "license": "ISC",
+  "dependencies": {
+    "performance-now": "^2.1.0",
+    "rimraf": "^2.6.3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ibm-node-latency",
+  "description": "Simple Latency test for IBM Cloud Functions",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "google-node-filesystem",
+    "description": "Simple filesystem test for Google Cloud Functions. Write 10'000 10kB files and read them.",
+    "version": "0.0.1",
+    "main": "index.js",
+    "license": "ISC",
+    "dependencies": {
+      "performance-now": "^2.1.0",
+      "rimraf": "^2.6.3"
+    }
+  }

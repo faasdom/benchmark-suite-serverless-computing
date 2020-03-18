@@ -1,0 +1,10 @@
+{
+  "name": "google-node-factors",
+  "description": "Simple CPU test (factors) for Google Cloud Functions",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "performance-now": "^2.1.0"
+  }
+}

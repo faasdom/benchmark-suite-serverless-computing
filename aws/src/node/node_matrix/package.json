@@ -1,0 +1,11 @@
+{
+  "name": "aws-node-matrix",
+  "description": "Simple CPU test (matrix) for Amazon Web Services",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "performance-now": "^2.1.0",
+    "fs": "^0.0.1-security"
+  }
+}
