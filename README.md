@@ -1,6 +1,6 @@
 # NOTICE
 
-**This repository was used as anonymous copy for a paper submission. Please refer to the original and maintained one: [https://github.com/bschitter/benchmark-suite-serverless-computing](https://github.com/bschitter/benchmark-suite-serverless-computing) **
+**This repository was used as anonymous copy for a paper submission. Please refer to the original and maintained one:** [https://github.com/bschitter/benchmark-suite-serverless-computing](https://github.com/bschitter/benchmark-suite-serverless-computing)
 
 # benchmark-suite-serverless-computing
 
